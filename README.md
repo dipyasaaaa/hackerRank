@@ -1,3 +1,3 @@
 # hackerRank
 
-all hackerRank codes till now
+hackerRank codes done
